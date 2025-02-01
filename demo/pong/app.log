@@ -1,0 +1,1142 @@
+2025/02/01 19:07:38 paddle: x: 144, top: 36, bott: 39
+2025/02/01 19:07:38 Set direction from UP_RIGHT to UP_RIGHT at x: 91 y: 37
+2025/02/01 19:07:38 paddle: x: 144, top: 35, bott: 38
+2025/02/01 19:07:38 Set direction from UP_RIGHT to UP_RIGHT at x: 92 y: 36
+2025/02/01 19:07:38 paddle: x: 144, top: 34, bott: 37
+2025/02/01 19:07:38 Set direction from UP_RIGHT to UP_RIGHT at x: 93 y: 35
+2025/02/01 19:07:38 paddle: x: 144, top: 33, bott: 36
+2025/02/01 19:07:38 Set direction from UP_RIGHT to UP_RIGHT at x: 94 y: 34
+2025/02/01 19:07:38 paddle: x: 144, top: 32, bott: 35
+2025/02/01 19:07:38 Set direction from UP_RIGHT to UP_RIGHT at x: 95 y: 33
+2025/02/01 19:07:38 paddle: x: 144, top: 31, bott: 34
+2025/02/01 19:07:38 Set direction from UP_RIGHT to UP_RIGHT at x: 96 y: 32
+2025/02/01 19:07:39 paddle: x: 144, top: 30, bott: 33
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 97 y: 31
+2025/02/01 19:07:39 paddle: x: 144, top: 29, bott: 32
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 98 y: 30
+2025/02/01 19:07:39 paddle: x: 144, top: 28, bott: 31
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 99 y: 29
+2025/02/01 19:07:39 paddle: x: 144, top: 27, bott: 30
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 100 y: 28
+2025/02/01 19:07:39 paddle: x: 144, top: 26, bott: 29
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 101 y: 27
+2025/02/01 19:07:39 paddle: x: 144, top: 25, bott: 28
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 102 y: 26
+2025/02/01 19:07:39 paddle: x: 144, top: 24, bott: 27
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 103 y: 25
+2025/02/01 19:07:39 paddle: x: 144, top: 23, bott: 26
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 104 y: 24
+2025/02/01 19:07:39 paddle: x: 144, top: 22, bott: 25
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 105 y: 23
+2025/02/01 19:07:39 paddle: x: 144, top: 21, bott: 24
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 106 y: 22
+2025/02/01 19:07:39 paddle: x: 144, top: 20, bott: 23
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 107 y: 21
+2025/02/01 19:07:39 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 108 y: 20
+2025/02/01 19:07:39 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:39 Set direction from UP_RIGHT to UP_RIGHT at x: 109 y: 19
+2025/02/01 19:07:40 Set direction from UP_RIGHT to DOWN_RIGHT at x: 110 y: 20
+2025/02/01 19:07:40 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 111 y: 21
+2025/02/01 19:07:40 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 112 y: 22
+2025/02/01 19:07:40 paddle: x: 144, top: 20, bott: 23
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 113 y: 23
+2025/02/01 19:07:40 paddle: x: 144, top: 21, bott: 24
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 114 y: 24
+2025/02/01 19:07:40 paddle: x: 144, top: 22, bott: 25
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 115 y: 25
+2025/02/01 19:07:40 paddle: x: 144, top: 23, bott: 26
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 116 y: 26
+2025/02/01 19:07:40 paddle: x: 144, top: 24, bott: 27
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 117 y: 27
+2025/02/01 19:07:40 paddle: x: 144, top: 25, bott: 28
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 118 y: 28
+2025/02/01 19:07:40 paddle: x: 144, top: 26, bott: 29
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 119 y: 29
+2025/02/01 19:07:40 paddle: x: 144, top: 27, bott: 30
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 120 y: 30
+2025/02/01 19:07:40 paddle: x: 144, top: 28, bott: 31
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 121 y: 31
+2025/02/01 19:07:40 paddle: x: 144, top: 29, bott: 32
+2025/02/01 19:07:40 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 122 y: 32
+2025/02/01 19:07:41 paddle: x: 144, top: 30, bott: 33
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 123 y: 33
+2025/02/01 19:07:41 paddle: x: 144, top: 31, bott: 34
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 124 y: 34
+2025/02/01 19:07:41 paddle: x: 144, top: 32, bott: 35
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 125 y: 35
+2025/02/01 19:07:41 paddle: x: 144, top: 33, bott: 36
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 126 y: 36
+2025/02/01 19:07:41 paddle: x: 144, top: 34, bott: 37
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 127 y: 37
+2025/02/01 19:07:41 paddle: x: 144, top: 35, bott: 38
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 128 y: 38
+2025/02/01 19:07:41 paddle: x: 144, top: 36, bott: 39
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 129 y: 39
+2025/02/01 19:07:41 paddle: x: 144, top: 37, bott: 40
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 130 y: 40
+2025/02/01 19:07:41 paddle: x: 144, top: 38, bott: 41
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 131 y: 41
+2025/02/01 19:07:41 paddle: x: 144, top: 39, bott: 42
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 132 y: 42
+2025/02/01 19:07:41 paddle: x: 144, top: 40, bott: 43
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 133 y: 43
+2025/02/01 19:07:41 paddle: x: 144, top: 41, bott: 44
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 134 y: 44
+2025/02/01 19:07:41 paddle: x: 144, top: 42, bott: 45
+2025/02/01 19:07:41 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 135 y: 45
+2025/02/01 19:07:42 paddle: x: 144, top: 43, bott: 46
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 136 y: 46
+2025/02/01 19:07:42 paddle: x: 144, top: 44, bott: 47
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 137 y: 47
+2025/02/01 19:07:42 paddle: x: 144, top: 45, bott: 48
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 138 y: 48
+2025/02/01 19:07:42 paddle: x: 144, top: 46, bott: 49
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 139 y: 49
+2025/02/01 19:07:42 paddle: x: 144, top: 47, bott: 50
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 140 y: 50
+2025/02/01 19:07:42 paddle: x: 144, top: 48, bott: 51
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 141 y: 51
+2025/02/01 19:07:42 paddle: x: 144, top: 49, bott: 52
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 142 y: 52
+2025/02/01 19:07:42 paddle: x: 144, top: 50, bott: 53
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 143 y: 53
+2025/02/01 19:07:42 paddle: x: 144, top: 51, bott: 54
+2025/02/01 19:07:42 Calcing collision
+paddle: {51 54 144}
+ ball: {143 53 6 0}
+2025/02/01 19:07:42 calculating paddle coll. 
+	paddle: {yTop:51 yBot:54 x:144}
+	ball: {x:143 y:53 dir:6 lock:0}
+	side: R
+2025/02/01 19:07:42 Set direction from DOWN_RIGHT to DOWN_LEFT at x: 142 y: 54
+2025/02/01 19:07:42 paddle: x: 36, top: 29, bott: 32
+2025/02/01 19:07:42 Set direction from DOWN_LEFT to DOWN_LEFT at x: 141 y: 55
+2025/02/01 19:07:42 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:42 Set direction from DOWN_LEFT to DOWN_LEFT at x: 140 y: 56
+2025/02/01 19:07:42 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:07:42 Set direction from DOWN_LEFT to DOWN_LEFT at x: 139 y: 57
+2025/02/01 19:07:42 Set direction from DOWN_LEFT to UP_LEFT at x: 138 y: 56
+2025/02/01 19:07:43 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 137 y: 55
+2025/02/01 19:07:43 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 136 y: 54
+2025/02/01 19:07:43 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 135 y: 53
+2025/02/01 19:07:43 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 134 y: 52
+2025/02/01 19:07:43 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 133 y: 51
+2025/02/01 19:07:43 paddle: x: 36, top: 37, bott: 40
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 132 y: 50
+2025/02/01 19:07:43 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 131 y: 49
+2025/02/01 19:07:43 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 130 y: 48
+2025/02/01 19:07:43 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 129 y: 47
+2025/02/01 19:07:43 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 128 y: 46
+2025/02/01 19:07:43 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 127 y: 45
+2025/02/01 19:07:43 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 126 y: 44
+2025/02/01 19:07:43 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 125 y: 43
+2025/02/01 19:07:43 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:07:43 Set direction from UP_LEFT to UP_LEFT at x: 124 y: 42
+2025/02/01 19:07:44 paddle: x: 36, top: 40, bott: 43
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 123 y: 41
+2025/02/01 19:07:44 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 122 y: 40
+2025/02/01 19:07:44 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 121 y: 39
+2025/02/01 19:07:44 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 120 y: 38
+2025/02/01 19:07:44 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 119 y: 37
+2025/02/01 19:07:44 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 118 y: 36
+2025/02/01 19:07:44 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 117 y: 35
+2025/02/01 19:07:44 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 116 y: 34
+2025/02/01 19:07:44 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 115 y: 33
+2025/02/01 19:07:44 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 114 y: 32
+2025/02/01 19:07:44 paddle: x: 36, top: 40, bott: 43
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 113 y: 31
+2025/02/01 19:07:44 paddle: x: 36, top: 40, bott: 43
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 112 y: 30
+2025/02/01 19:07:44 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:07:44 Set direction from UP_LEFT to UP_LEFT at x: 111 y: 29
+2025/02/01 19:07:45 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 110 y: 28
+2025/02/01 19:07:45 paddle: x: 36, top: 37, bott: 40
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 109 y: 27
+2025/02/01 19:07:45 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 108 y: 26
+2025/02/01 19:07:45 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 107 y: 25
+2025/02/01 19:07:45 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 106 y: 24
+2025/02/01 19:07:45 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 105 y: 23
+2025/02/01 19:07:45 paddle: x: 36, top: 32, bott: 35
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 104 y: 22
+2025/02/01 19:07:45 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 103 y: 21
+2025/02/01 19:07:45 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 102 y: 20
+2025/02/01 19:07:45 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:45 Set direction from UP_LEFT to UP_LEFT at x: 101 y: 19
+2025/02/01 19:07:45 Set direction from UP_LEFT to DOWN_LEFT at x: 100 y: 20
+2025/02/01 19:07:45 paddle: x: 36, top: 28, bott: 31
+2025/02/01 19:07:45 Set direction from DOWN_LEFT to DOWN_LEFT at x: 99 y: 21
+2025/02/01 19:07:45 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:07:45 Set direction from DOWN_LEFT to DOWN_LEFT at x: 98 y: 22
+2025/02/01 19:07:46 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 97 y: 23
+2025/02/01 19:07:46 paddle: x: 36, top: 25, bott: 28
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 96 y: 24
+2025/02/01 19:07:46 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 95 y: 25
+2025/02/01 19:07:46 paddle: x: 36, top: 23, bott: 26
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 94 y: 26
+2025/02/01 19:07:46 paddle: x: 36, top: 23, bott: 26
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 93 y: 27
+2025/02/01 19:07:46 paddle: x: 36, top: 23, bott: 26
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 92 y: 28
+2025/02/01 19:07:46 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 91 y: 29
+2025/02/01 19:07:46 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 90 y: 30
+2025/02/01 19:07:46 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 89 y: 31
+2025/02/01 19:07:46 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 88 y: 32
+2025/02/01 19:07:46 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 87 y: 33
+2025/02/01 19:07:46 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 86 y: 34
+2025/02/01 19:07:46 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:07:46 Set direction from DOWN_LEFT to DOWN_LEFT at x: 85 y: 35
+2025/02/01 19:07:47 paddle: x: 36, top: 25, bott: 28
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 84 y: 36
+2025/02/01 19:07:47 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 83 y: 37
+2025/02/01 19:07:47 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 82 y: 38
+2025/02/01 19:07:47 paddle: x: 36, top: 28, bott: 31
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 81 y: 39
+2025/02/01 19:07:47 paddle: x: 36, top: 29, bott: 32
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 80 y: 40
+2025/02/01 19:07:47 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 79 y: 41
+2025/02/01 19:07:47 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 78 y: 42
+2025/02/01 19:07:47 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 77 y: 43
+2025/02/01 19:07:47 paddle: x: 36, top: 32, bott: 35
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 76 y: 44
+2025/02/01 19:07:47 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 75 y: 45
+2025/02/01 19:07:47 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 74 y: 46
+2025/02/01 19:07:47 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 73 y: 47
+2025/02/01 19:07:47 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:07:47 Set direction from DOWN_LEFT to DOWN_LEFT at x: 72 y: 48
+2025/02/01 19:07:48 paddle: x: 36, top: 37, bott: 40
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 71 y: 49
+2025/02/01 19:07:48 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 70 y: 50
+2025/02/01 19:07:48 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 69 y: 51
+2025/02/01 19:07:48 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 68 y: 52
+2025/02/01 19:07:48 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 67 y: 53
+2025/02/01 19:07:48 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 66 y: 54
+2025/02/01 19:07:48 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 65 y: 55
+2025/02/01 19:07:48 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 64 y: 56
+2025/02/01 19:07:48 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to DOWN_LEFT at x: 63 y: 57
+2025/02/01 19:07:48 Set direction from DOWN_LEFT to UP_LEFT at x: 62 y: 56
+2025/02/01 19:07:48 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:07:48 Set direction from UP_LEFT to UP_LEFT at x: 61 y: 55
+2025/02/01 19:07:48 paddle: x: 36, top: 37, bott: 40
+2025/02/01 19:07:48 Set direction from UP_LEFT to UP_LEFT at x: 60 y: 54
+2025/02/01 19:07:48 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:07:48 Set direction from UP_LEFT to UP_LEFT at x: 59 y: 53
+2025/02/01 19:07:49 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 58 y: 52
+2025/02/01 19:07:49 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 57 y: 51
+2025/02/01 19:07:49 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 56 y: 50
+2025/02/01 19:07:49 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 55 y: 49
+2025/02/01 19:07:49 paddle: x: 36, top: 32, bott: 35
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 54 y: 48
+2025/02/01 19:07:49 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 53 y: 47
+2025/02/01 19:07:49 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 52 y: 46
+2025/02/01 19:07:49 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 51 y: 45
+2025/02/01 19:07:49 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 50 y: 44
+2025/02/01 19:07:49 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 49 y: 43
+2025/02/01 19:07:49 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 48 y: 42
+2025/02/01 19:07:49 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 47 y: 41
+2025/02/01 19:07:49 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 46 y: 40
+2025/02/01 19:07:49 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:49 Set direction from UP_LEFT to UP_LEFT at x: 45 y: 39
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_LEFT at x: 44 y: 38
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_LEFT at x: 43 y: 37
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_LEFT at x: 42 y: 36
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_LEFT at x: 41 y: 35
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_LEFT at x: 40 y: 34
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_LEFT at x: 39 y: 33
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_LEFT at x: 38 y: 32
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_LEFT at x: 37 y: 31
+2025/02/01 19:07:50 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:07:50 Calcing collision
+paddle: {30 33 36}
+ ball: {37 31 7 0}
+2025/02/01 19:07:50 calculating paddle coll. 
+	paddle: {yTop:30 yBot:33 x:36}
+	ball: {x:37 y:31 dir:7 lock:0}
+	side: L
+2025/02/01 19:07:50 Set direction from UP_LEFT to UP_RIGHT at x: 38 y: 30
+2025/02/01 19:07:50 paddle: x: 144, top: 28, bott: 31
+2025/02/01 19:07:50 Set direction from UP_RIGHT to UP_RIGHT at x: 39 y: 29
+2025/02/01 19:07:50 paddle: x: 144, top: 27, bott: 30
+2025/02/01 19:07:50 Set direction from UP_RIGHT to UP_RIGHT at x: 40 y: 28
+2025/02/01 19:07:50 paddle: x: 144, top: 26, bott: 29
+2025/02/01 19:07:50 Set direction from UP_RIGHT to UP_RIGHT at x: 41 y: 27
+2025/02/01 19:07:50 paddle: x: 144, top: 25, bott: 28
+2025/02/01 19:07:50 Set direction from UP_RIGHT to UP_RIGHT at x: 42 y: 26
+2025/02/01 19:07:51 paddle: x: 144, top: 24, bott: 27
+2025/02/01 19:07:51 Set direction from UP_RIGHT to UP_RIGHT at x: 43 y: 25
+2025/02/01 19:07:51 paddle: x: 144, top: 23, bott: 26
+2025/02/01 19:07:51 Set direction from UP_RIGHT to UP_RIGHT at x: 44 y: 24
+2025/02/01 19:07:51 paddle: x: 144, top: 22, bott: 25
+2025/02/01 19:07:51 Set direction from UP_RIGHT to UP_RIGHT at x: 45 y: 23
+2025/02/01 19:07:51 paddle: x: 144, top: 21, bott: 24
+2025/02/01 19:07:51 Set direction from UP_RIGHT to UP_RIGHT at x: 46 y: 22
+2025/02/01 19:07:51 paddle: x: 144, top: 20, bott: 23
+2025/02/01 19:07:51 Set direction from UP_RIGHT to UP_RIGHT at x: 47 y: 21
+2025/02/01 19:07:51 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:51 Set direction from UP_RIGHT to UP_RIGHT at x: 48 y: 20
+2025/02/01 19:07:51 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:51 Set direction from UP_RIGHT to UP_RIGHT at x: 49 y: 19
+2025/02/01 19:07:51 Set direction from UP_RIGHT to DOWN_RIGHT at x: 50 y: 20
+2025/02/01 19:07:51 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:51 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 51 y: 21
+2025/02/01 19:07:51 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:51 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 52 y: 22
+2025/02/01 19:07:51 paddle: x: 144, top: 20, bott: 23
+2025/02/01 19:07:51 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 53 y: 23
+2025/02/01 19:07:51 paddle: x: 144, top: 21, bott: 24
+2025/02/01 19:07:51 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 54 y: 24
+2025/02/01 19:07:51 paddle: x: 144, top: 22, bott: 25
+2025/02/01 19:07:51 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 55 y: 25
+2025/02/01 19:07:52 paddle: x: 144, top: 23, bott: 26
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 56 y: 26
+2025/02/01 19:07:52 paddle: x: 144, top: 24, bott: 27
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 57 y: 27
+2025/02/01 19:07:52 paddle: x: 144, top: 25, bott: 28
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 58 y: 28
+2025/02/01 19:07:52 paddle: x: 144, top: 26, bott: 29
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 59 y: 29
+2025/02/01 19:07:52 paddle: x: 144, top: 27, bott: 30
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 60 y: 30
+2025/02/01 19:07:52 paddle: x: 144, top: 28, bott: 31
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 61 y: 31
+2025/02/01 19:07:52 paddle: x: 144, top: 29, bott: 32
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 62 y: 32
+2025/02/01 19:07:52 paddle: x: 144, top: 30, bott: 33
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 63 y: 33
+2025/02/01 19:07:52 paddle: x: 144, top: 31, bott: 34
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 64 y: 34
+2025/02/01 19:07:52 paddle: x: 144, top: 32, bott: 35
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 65 y: 35
+2025/02/01 19:07:52 paddle: x: 144, top: 33, bott: 36
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 66 y: 36
+2025/02/01 19:07:52 paddle: x: 144, top: 34, bott: 37
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 67 y: 37
+2025/02/01 19:07:52 paddle: x: 144, top: 35, bott: 38
+2025/02/01 19:07:52 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 68 y: 38
+2025/02/01 19:07:53 paddle: x: 144, top: 36, bott: 39
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 69 y: 39
+2025/02/01 19:07:53 paddle: x: 144, top: 37, bott: 40
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 70 y: 40
+2025/02/01 19:07:53 paddle: x: 144, top: 38, bott: 41
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 71 y: 41
+2025/02/01 19:07:53 paddle: x: 144, top: 39, bott: 42
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 72 y: 42
+2025/02/01 19:07:53 paddle: x: 144, top: 40, bott: 43
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 73 y: 43
+2025/02/01 19:07:53 paddle: x: 144, top: 41, bott: 44
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 74 y: 44
+2025/02/01 19:07:53 paddle: x: 144, top: 42, bott: 45
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 75 y: 45
+2025/02/01 19:07:53 paddle: x: 144, top: 43, bott: 46
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 76 y: 46
+2025/02/01 19:07:53 paddle: x: 144, top: 44, bott: 47
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 77 y: 47
+2025/02/01 19:07:53 paddle: x: 144, top: 45, bott: 48
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 78 y: 48
+2025/02/01 19:07:53 paddle: x: 144, top: 46, bott: 49
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 79 y: 49
+2025/02/01 19:07:53 paddle: x: 144, top: 47, bott: 50
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 80 y: 50
+2025/02/01 19:07:53 paddle: x: 144, top: 48, bott: 51
+2025/02/01 19:07:53 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 81 y: 51
+2025/02/01 19:07:54 paddle: x: 144, top: 49, bott: 52
+2025/02/01 19:07:54 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 82 y: 52
+2025/02/01 19:07:54 paddle: x: 144, top: 50, bott: 53
+2025/02/01 19:07:54 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 83 y: 53
+2025/02/01 19:07:54 paddle: x: 144, top: 51, bott: 54
+2025/02/01 19:07:54 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 84 y: 54
+2025/02/01 19:07:54 paddle: x: 144, top: 52, bott: 55
+2025/02/01 19:07:54 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 85 y: 55
+2025/02/01 19:07:54 paddle: x: 144, top: 53, bott: 56
+2025/02/01 19:07:54 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 86 y: 56
+2025/02/01 19:07:54 paddle: x: 144, top: 54, bott: 57
+2025/02/01 19:07:54 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 87 y: 57
+2025/02/01 19:07:54 Set direction from DOWN_RIGHT to UP_RIGHT at x: 88 y: 56
+2025/02/01 19:07:54 paddle: x: 144, top: 54, bott: 57
+2025/02/01 19:07:54 Set direction from UP_RIGHT to UP_RIGHT at x: 89 y: 55
+2025/02/01 19:07:54 paddle: x: 144, top: 53, bott: 56
+2025/02/01 19:07:54 Set direction from UP_RIGHT to UP_RIGHT at x: 90 y: 54
+2025/02/01 19:07:54 paddle: x: 144, top: 52, bott: 55
+2025/02/01 19:07:54 Set direction from UP_RIGHT to UP_RIGHT at x: 91 y: 53
+2025/02/01 19:07:54 paddle: x: 144, top: 51, bott: 54
+2025/02/01 19:07:54 Set direction from UP_RIGHT to UP_RIGHT at x: 92 y: 52
+2025/02/01 19:07:54 paddle: x: 144, top: 50, bott: 53
+2025/02/01 19:07:54 Set direction from UP_RIGHT to UP_RIGHT at x: 93 y: 51
+2025/02/01 19:07:54 paddle: x: 144, top: 49, bott: 52
+2025/02/01 19:07:54 Set direction from UP_RIGHT to UP_RIGHT at x: 94 y: 50
+2025/02/01 19:07:55 paddle: x: 144, top: 48, bott: 51
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 95 y: 49
+2025/02/01 19:07:55 paddle: x: 144, top: 47, bott: 50
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 96 y: 48
+2025/02/01 19:07:55 paddle: x: 144, top: 46, bott: 49
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 97 y: 47
+2025/02/01 19:07:55 paddle: x: 144, top: 45, bott: 48
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 98 y: 46
+2025/02/01 19:07:55 paddle: x: 144, top: 44, bott: 47
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 99 y: 45
+2025/02/01 19:07:55 paddle: x: 144, top: 43, bott: 46
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 100 y: 44
+2025/02/01 19:07:55 paddle: x: 144, top: 42, bott: 45
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 101 y: 43
+2025/02/01 19:07:55 paddle: x: 144, top: 41, bott: 44
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 102 y: 42
+2025/02/01 19:07:55 paddle: x: 144, top: 40, bott: 43
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 103 y: 41
+2025/02/01 19:07:55 paddle: x: 144, top: 39, bott: 42
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 104 y: 40
+2025/02/01 19:07:55 paddle: x: 144, top: 38, bott: 41
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 105 y: 39
+2025/02/01 19:07:55 paddle: x: 144, top: 37, bott: 40
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 106 y: 38
+2025/02/01 19:07:55 paddle: x: 144, top: 36, bott: 39
+2025/02/01 19:07:55 Set direction from UP_RIGHT to UP_RIGHT at x: 107 y: 37
+2025/02/01 19:07:56 paddle: x: 144, top: 35, bott: 38
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 108 y: 36
+2025/02/01 19:07:56 paddle: x: 144, top: 34, bott: 37
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 109 y: 35
+2025/02/01 19:07:56 paddle: x: 144, top: 33, bott: 36
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 110 y: 34
+2025/02/01 19:07:56 paddle: x: 144, top: 32, bott: 35
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 111 y: 33
+2025/02/01 19:07:56 paddle: x: 144, top: 31, bott: 34
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 112 y: 32
+2025/02/01 19:07:56 paddle: x: 144, top: 30, bott: 33
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 113 y: 31
+2025/02/01 19:07:56 paddle: x: 144, top: 29, bott: 32
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 114 y: 30
+2025/02/01 19:07:56 paddle: x: 144, top: 28, bott: 31
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 115 y: 29
+2025/02/01 19:07:56 paddle: x: 144, top: 27, bott: 30
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 116 y: 28
+2025/02/01 19:07:56 paddle: x: 144, top: 26, bott: 29
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 117 y: 27
+2025/02/01 19:07:56 paddle: x: 144, top: 25, bott: 28
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 118 y: 26
+2025/02/01 19:07:56 paddle: x: 144, top: 24, bott: 27
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 119 y: 25
+2025/02/01 19:07:56 paddle: x: 144, top: 23, bott: 26
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 120 y: 24
+2025/02/01 19:07:56 paddle: x: 144, top: 22, bott: 25
+2025/02/01 19:07:56 Set direction from UP_RIGHT to UP_RIGHT at x: 121 y: 23
+2025/02/01 19:07:57 paddle: x: 144, top: 21, bott: 24
+2025/02/01 19:07:57 Set direction from UP_RIGHT to UP_RIGHT at x: 122 y: 22
+2025/02/01 19:07:57 paddle: x: 144, top: 20, bott: 23
+2025/02/01 19:07:57 Set direction from UP_RIGHT to UP_RIGHT at x: 123 y: 21
+2025/02/01 19:07:57 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:57 Set direction from UP_RIGHT to UP_RIGHT at x: 124 y: 20
+2025/02/01 19:07:57 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:57 Set direction from UP_RIGHT to UP_RIGHT at x: 125 y: 19
+2025/02/01 19:07:57 Set direction from UP_RIGHT to DOWN_RIGHT at x: 126 y: 20
+2025/02/01 19:07:57 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:57 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 127 y: 21
+2025/02/01 19:07:57 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:07:57 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 128 y: 22
+2025/02/01 19:07:57 paddle: x: 144, top: 20, bott: 23
+2025/02/01 19:07:57 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 129 y: 23
+2025/02/01 19:07:57 paddle: x: 144, top: 21, bott: 24
+2025/02/01 19:07:57 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 130 y: 24
+2025/02/01 19:07:57 paddle: x: 144, top: 22, bott: 25
+2025/02/01 19:07:57 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 131 y: 25
+2025/02/01 19:07:57 paddle: x: 144, top: 23, bott: 26
+2025/02/01 19:07:57 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 132 y: 26
+2025/02/01 19:07:57 paddle: x: 144, top: 24, bott: 27
+2025/02/01 19:07:57 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 133 y: 27
+2025/02/01 19:07:57 paddle: x: 144, top: 25, bott: 28
+2025/02/01 19:07:57 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 134 y: 28
+2025/02/01 19:07:58 paddle: x: 144, top: 26, bott: 29
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 135 y: 29
+2025/02/01 19:07:58 paddle: x: 144, top: 27, bott: 30
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 136 y: 30
+2025/02/01 19:07:58 paddle: x: 144, top: 28, bott: 31
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 137 y: 31
+2025/02/01 19:07:58 paddle: x: 144, top: 29, bott: 32
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 138 y: 32
+2025/02/01 19:07:58 paddle: x: 144, top: 30, bott: 33
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 139 y: 33
+2025/02/01 19:07:58 paddle: x: 144, top: 31, bott: 34
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 140 y: 34
+2025/02/01 19:07:58 paddle: x: 144, top: 32, bott: 35
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 141 y: 35
+2025/02/01 19:07:58 paddle: x: 144, top: 33, bott: 36
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 142 y: 36
+2025/02/01 19:07:58 paddle: x: 144, top: 34, bott: 37
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 143 y: 37
+2025/02/01 19:07:58 paddle: x: 144, top: 35, bott: 38
+2025/02/01 19:07:58 Calcing collision
+paddle: {35 38 144}
+ ball: {143 37 6 0}
+2025/02/01 19:07:58 calculating paddle coll. 
+	paddle: {yTop:35 yBot:38 x:144}
+	ball: {x:143 y:37 dir:6 lock:0}
+	side: R
+2025/02/01 19:07:58 Set direction from DOWN_RIGHT to DOWN_LEFT at x: 142 y: 38
+2025/02/01 19:07:58 paddle: x: 36, top: 53, bott: 56
+2025/02/01 19:07:58 Set direction from DOWN_LEFT to DOWN_LEFT at x: 141 y: 39
+2025/02/01 19:07:58 paddle: x: 36, top: 53, bott: 56
+2025/02/01 19:07:58 Set direction from DOWN_LEFT to DOWN_LEFT at x: 140 y: 40
+2025/02/01 19:07:58 paddle: x: 36, top: 53, bott: 56
+2025/02/01 19:07:58 Set direction from DOWN_LEFT to DOWN_LEFT at x: 139 y: 41
+2025/02/01 19:07:59 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 138 y: 42
+2025/02/01 19:07:59 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 137 y: 43
+2025/02/01 19:07:59 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 136 y: 44
+2025/02/01 19:07:59 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 135 y: 45
+2025/02/01 19:07:59 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 134 y: 46
+2025/02/01 19:07:59 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 133 y: 47
+2025/02/01 19:07:59 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 132 y: 48
+2025/02/01 19:07:59 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 131 y: 49
+2025/02/01 19:07:59 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 130 y: 50
+2025/02/01 19:07:59 paddle: x: 36, top: 49, bott: 52
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 129 y: 51
+2025/02/01 19:07:59 paddle: x: 36, top: 48, bott: 51
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 128 y: 52
+2025/02/01 19:07:59 paddle: x: 36, top: 47, bott: 50
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 127 y: 53
+2025/02/01 19:07:59 paddle: x: 36, top: 46, bott: 49
+2025/02/01 19:07:59 Set direction from DOWN_LEFT to DOWN_LEFT at x: 126 y: 54
+2025/02/01 19:08:00 paddle: x: 36, top: 45, bott: 48
+2025/02/01 19:08:00 Set direction from DOWN_LEFT to DOWN_LEFT at x: 125 y: 55
+2025/02/01 19:08:00 paddle: x: 36, top: 44, bott: 47
+2025/02/01 19:08:00 Set direction from DOWN_LEFT to DOWN_LEFT at x: 124 y: 56
+2025/02/01 19:08:00 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:00 Set direction from DOWN_LEFT to DOWN_LEFT at x: 123 y: 57
+2025/02/01 19:08:00 Set direction from DOWN_LEFT to UP_LEFT at x: 122 y: 56
+2025/02/01 19:08:00 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 121 y: 55
+2025/02/01 19:08:00 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 120 y: 54
+2025/02/01 19:08:00 paddle: x: 36, top: 40, bott: 43
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 119 y: 53
+2025/02/01 19:08:00 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 118 y: 52
+2025/02/01 19:08:00 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 117 y: 51
+2025/02/01 19:08:00 paddle: x: 36, top: 37, bott: 40
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 116 y: 50
+2025/02/01 19:08:00 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 115 y: 49
+2025/02/01 19:08:00 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 114 y: 48
+2025/02/01 19:08:00 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:08:00 Set direction from UP_LEFT to UP_LEFT at x: 113 y: 47
+2025/02/01 19:08:01 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 112 y: 46
+2025/02/01 19:08:01 paddle: x: 36, top: 32, bott: 35
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 111 y: 45
+2025/02/01 19:08:01 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 110 y: 44
+2025/02/01 19:08:01 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 109 y: 43
+2025/02/01 19:08:01 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 108 y: 42
+2025/02/01 19:08:01 paddle: x: 36, top: 29, bott: 32
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 107 y: 41
+2025/02/01 19:08:01 paddle: x: 36, top: 28, bott: 31
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 106 y: 40
+2025/02/01 19:08:01 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 105 y: 39
+2025/02/01 19:08:01 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 104 y: 38
+2025/02/01 19:08:01 paddle: x: 36, top: 25, bott: 28
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 103 y: 37
+2025/02/01 19:08:01 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 102 y: 36
+2025/02/01 19:08:01 paddle: x: 36, top: 23, bott: 26
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 101 y: 35
+2025/02/01 19:08:01 paddle: x: 36, top: 22, bott: 25
+2025/02/01 19:08:01 Set direction from UP_LEFT to UP_LEFT at x: 100 y: 34
+2025/02/01 19:08:02 paddle: x: 36, top: 22, bott: 25
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 99 y: 33
+2025/02/01 19:08:02 paddle: x: 36, top: 21, bott: 24
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 98 y: 32
+2025/02/01 19:08:02 paddle: x: 36, top: 20, bott: 23
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 97 y: 31
+2025/02/01 19:08:02 paddle: x: 36, top: 20, bott: 23
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 96 y: 30
+2025/02/01 19:08:02 paddle: x: 36, top: 20, bott: 23
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 95 y: 29
+2025/02/01 19:08:02 paddle: x: 36, top: 21, bott: 24
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 94 y: 28
+2025/02/01 19:08:02 paddle: x: 36, top: 21, bott: 24
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 93 y: 27
+2025/02/01 19:08:02 paddle: x: 36, top: 21, bott: 24
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 92 y: 26
+2025/02/01 19:08:02 paddle: x: 36, top: 21, bott: 24
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 91 y: 25
+2025/02/01 19:08:02 paddle: x: 36, top: 21, bott: 24
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 90 y: 24
+2025/02/01 19:08:02 paddle: x: 36, top: 21, bott: 24
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 89 y: 23
+2025/02/01 19:08:02 paddle: x: 36, top: 22, bott: 25
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 88 y: 22
+2025/02/01 19:08:02 paddle: x: 36, top: 23, bott: 26
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 87 y: 21
+2025/02/01 19:08:02 paddle: x: 36, top: 24, bott: 27
+2025/02/01 19:08:02 Set direction from UP_LEFT to UP_LEFT at x: 86 y: 20
+2025/02/01 19:08:03 paddle: x: 36, top: 25, bott: 28
+2025/02/01 19:08:03 Set direction from UP_LEFT to UP_LEFT at x: 85 y: 19
+2025/02/01 19:08:03 Set direction from UP_LEFT to DOWN_LEFT at x: 84 y: 20
+2025/02/01 19:08:03 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 83 y: 21
+2025/02/01 19:08:03 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 82 y: 22
+2025/02/01 19:08:03 paddle: x: 36, top: 28, bott: 31
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 81 y: 23
+2025/02/01 19:08:03 paddle: x: 36, top: 29, bott: 32
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 80 y: 24
+2025/02/01 19:08:03 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 79 y: 25
+2025/02/01 19:08:03 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 78 y: 26
+2025/02/01 19:08:03 paddle: x: 36, top: 32, bott: 35
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 77 y: 27
+2025/02/01 19:08:03 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 76 y: 28
+2025/02/01 19:08:03 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 75 y: 29
+2025/02/01 19:08:03 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 74 y: 30
+2025/02/01 19:08:03 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:08:03 Set direction from DOWN_LEFT to DOWN_LEFT at x: 73 y: 31
+2025/02/01 19:08:04 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 72 y: 32
+2025/02/01 19:08:04 paddle: x: 36, top: 37, bott: 40
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 71 y: 33
+2025/02/01 19:08:04 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 70 y: 34
+2025/02/01 19:08:04 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 69 y: 35
+2025/02/01 19:08:04 paddle: x: 36, top: 40, bott: 43
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 68 y: 36
+2025/02/01 19:08:04 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 67 y: 37
+2025/02/01 19:08:04 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 66 y: 38
+2025/02/01 19:08:04 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 65 y: 39
+2025/02/01 19:08:04 paddle: x: 36, top: 44, bott: 47
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 64 y: 40
+2025/02/01 19:08:04 paddle: x: 36, top: 45, bott: 48
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 63 y: 41
+2025/02/01 19:08:04 paddle: x: 36, top: 45, bott: 48
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 62 y: 42
+2025/02/01 19:08:04 paddle: x: 36, top: 46, bott: 49
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 61 y: 43
+2025/02/01 19:08:04 paddle: x: 36, top: 47, bott: 50
+2025/02/01 19:08:04 Set direction from DOWN_LEFT to DOWN_LEFT at x: 60 y: 44
+2025/02/01 19:08:05 paddle: x: 36, top: 48, bott: 51
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 59 y: 45
+2025/02/01 19:08:05 paddle: x: 36, top: 49, bott: 52
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 58 y: 46
+2025/02/01 19:08:05 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 57 y: 47
+2025/02/01 19:08:05 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 56 y: 48
+2025/02/01 19:08:05 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 55 y: 49
+2025/02/01 19:08:05 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 54 y: 50
+2025/02/01 19:08:05 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 53 y: 51
+2025/02/01 19:08:05 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 52 y: 52
+2025/02/01 19:08:05 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 51 y: 53
+2025/02/01 19:08:05 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 50 y: 54
+2025/02/01 19:08:05 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 49 y: 55
+2025/02/01 19:08:05 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 48 y: 56
+2025/02/01 19:08:05 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:05 Set direction from DOWN_LEFT to DOWN_LEFT at x: 47 y: 57
+2025/02/01 19:08:06 Set direction from DOWN_LEFT to UP_LEFT at x: 46 y: 56
+2025/02/01 19:08:06 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 45 y: 55
+2025/02/01 19:08:06 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 44 y: 54
+2025/02/01 19:08:06 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 43 y: 53
+2025/02/01 19:08:06 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 42 y: 52
+2025/02/01 19:08:06 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 41 y: 51
+2025/02/01 19:08:06 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 40 y: 50
+2025/02/01 19:08:06 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 39 y: 49
+2025/02/01 19:08:06 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 38 y: 48
+2025/02/01 19:08:06 paddle: x: 36, top: 49, bott: 52
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 37 y: 47
+2025/02/01 19:08:06 paddle: x: 36, top: 48, bott: 51
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 36 y: 46
+2025/02/01 19:08:06 paddle: x: 36, top: 47, bott: 50
+2025/02/01 19:08:06 Set direction from UP_LEFT to UP_LEFT at x: 90 y: 38
+2025/02/01 19:08:07 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:07 Set direction from UP_LEFT to UP_LEFT at x: 89 y: 37
+2025/02/01 19:08:07 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:07 Set direction from UP_LEFT to UP_LEFT at x: 88 y: 36
+2025/02/01 19:08:07 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:07 Set direction from UP_LEFT to UP_LEFT at x: 87 y: 35
+2025/02/01 19:08:07 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:07 Set direction from UP_LEFT to UP_LEFT at x: 86 y: 34
+2025/02/01 19:08:08 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 85 y: 33
+2025/02/01 19:08:08 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 84 y: 32
+2025/02/01 19:08:08 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 83 y: 31
+2025/02/01 19:08:08 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 82 y: 30
+2025/02/01 19:08:08 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 81 y: 29
+2025/02/01 19:08:08 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 80 y: 28
+2025/02/01 19:08:08 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 79 y: 27
+2025/02/01 19:08:08 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 78 y: 26
+2025/02/01 19:08:08 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 77 y: 25
+2025/02/01 19:08:08 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 76 y: 24
+2025/02/01 19:08:08 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 75 y: 23
+2025/02/01 19:08:08 paddle: x: 36, top: 40, bott: 43
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 74 y: 22
+2025/02/01 19:08:08 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:08:08 Set direction from UP_LEFT to UP_LEFT at x: 73 y: 21
+2025/02/01 19:08:09 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:08:09 Set direction from UP_LEFT to UP_LEFT at x: 72 y: 20
+2025/02/01 19:08:09 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:08:09 Set direction from UP_LEFT to UP_LEFT at x: 71 y: 19
+2025/02/01 19:08:09 Set direction from UP_LEFT to DOWN_LEFT at x: 70 y: 20
+2025/02/01 19:08:09 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 69 y: 21
+2025/02/01 19:08:09 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 68 y: 22
+2025/02/01 19:08:09 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 67 y: 23
+2025/02/01 19:08:09 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 66 y: 24
+2025/02/01 19:08:09 paddle: x: 36, top: 32, bott: 35
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 65 y: 25
+2025/02/01 19:08:09 paddle: x: 36, top: 32, bott: 35
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 64 y: 26
+2025/02/01 19:08:09 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 63 y: 27
+2025/02/01 19:08:09 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 62 y: 28
+2025/02/01 19:08:09 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 61 y: 29
+2025/02/01 19:08:09 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 60 y: 30
+2025/02/01 19:08:09 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:09 Set direction from DOWN_LEFT to DOWN_LEFT at x: 59 y: 31
+2025/02/01 19:08:10 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 58 y: 32
+2025/02/01 19:08:10 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 57 y: 33
+2025/02/01 19:08:10 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 56 y: 34
+2025/02/01 19:08:10 paddle: x: 36, top: 35, bott: 38
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 55 y: 35
+2025/02/01 19:08:10 paddle: x: 36, top: 36, bott: 39
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 54 y: 36
+2025/02/01 19:08:10 paddle: x: 36, top: 37, bott: 40
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 53 y: 37
+2025/02/01 19:08:10 paddle: x: 36, top: 38, bott: 41
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 52 y: 38
+2025/02/01 19:08:10 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 51 y: 39
+2025/02/01 19:08:10 paddle: x: 36, top: 39, bott: 42
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 50 y: 40
+2025/02/01 19:08:10 paddle: x: 36, top: 40, bott: 43
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 49 y: 41
+2025/02/01 19:08:10 paddle: x: 36, top: 41, bott: 44
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 48 y: 42
+2025/02/01 19:08:10 paddle: x: 36, top: 42, bott: 45
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 47 y: 43
+2025/02/01 19:08:10 paddle: x: 36, top: 43, bott: 46
+2025/02/01 19:08:10 Set direction from DOWN_LEFT to DOWN_LEFT at x: 46 y: 44
+2025/02/01 19:08:11 paddle: x: 36, top: 44, bott: 47
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 45 y: 45
+2025/02/01 19:08:11 paddle: x: 36, top: 45, bott: 48
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 44 y: 46
+2025/02/01 19:08:11 paddle: x: 36, top: 46, bott: 49
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 43 y: 47
+2025/02/01 19:08:11 paddle: x: 36, top: 47, bott: 50
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 42 y: 48
+2025/02/01 19:08:11 paddle: x: 36, top: 48, bott: 51
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 41 y: 49
+2025/02/01 19:08:11 paddle: x: 36, top: 49, bott: 52
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 40 y: 50
+2025/02/01 19:08:11 paddle: x: 36, top: 49, bott: 52
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 39 y: 51
+2025/02/01 19:08:11 paddle: x: 36, top: 50, bott: 53
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 38 y: 52
+2025/02/01 19:08:11 paddle: x: 36, top: 51, bott: 54
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_LEFT at x: 37 y: 53
+2025/02/01 19:08:11 paddle: x: 36, top: 52, bott: 55
+2025/02/01 19:08:11 Calcing collision
+paddle: {52 55 36}
+ ball: {37 53 8 0}
+2025/02/01 19:08:11 calculating paddle coll. 
+	paddle: {yTop:52 yBot:55 x:36}
+	ball: {x:37 y:53 dir:8 lock:0}
+	side: L
+2025/02/01 19:08:11 Set direction from DOWN_LEFT to DOWN_RIGHT at x: 38 y: 54
+2025/02/01 19:08:11 paddle: x: 144, top: 52, bott: 55
+2025/02/01 19:08:11 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 39 y: 55
+2025/02/01 19:08:11 paddle: x: 144, top: 53, bott: 56
+2025/02/01 19:08:11 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 40 y: 56
+2025/02/01 19:08:11 paddle: x: 144, top: 54, bott: 57
+2025/02/01 19:08:11 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 41 y: 57
+2025/02/01 19:08:12 Set direction from DOWN_RIGHT to UP_RIGHT at x: 42 y: 56
+2025/02/01 19:08:12 paddle: x: 144, top: 54, bott: 57
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 43 y: 55
+2025/02/01 19:08:12 paddle: x: 144, top: 53, bott: 56
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 44 y: 54
+2025/02/01 19:08:12 paddle: x: 144, top: 52, bott: 55
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 45 y: 53
+2025/02/01 19:08:12 paddle: x: 144, top: 51, bott: 54
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 46 y: 52
+2025/02/01 19:08:12 paddle: x: 144, top: 50, bott: 53
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 47 y: 51
+2025/02/01 19:08:12 paddle: x: 144, top: 49, bott: 52
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 48 y: 50
+2025/02/01 19:08:12 paddle: x: 144, top: 48, bott: 51
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 49 y: 49
+2025/02/01 19:08:12 paddle: x: 144, top: 47, bott: 50
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 50 y: 48
+2025/02/01 19:08:12 paddle: x: 144, top: 46, bott: 49
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 51 y: 47
+2025/02/01 19:08:12 paddle: x: 144, top: 45, bott: 48
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 52 y: 46
+2025/02/01 19:08:12 paddle: x: 144, top: 44, bott: 47
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 53 y: 45
+2025/02/01 19:08:12 paddle: x: 144, top: 43, bott: 46
+2025/02/01 19:08:12 Set direction from UP_RIGHT to UP_RIGHT at x: 54 y: 44
+2025/02/01 19:08:13 paddle: x: 144, top: 42, bott: 45
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 55 y: 43
+2025/02/01 19:08:13 paddle: x: 144, top: 41, bott: 44
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 56 y: 42
+2025/02/01 19:08:13 paddle: x: 144, top: 40, bott: 43
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 57 y: 41
+2025/02/01 19:08:13 paddle: x: 144, top: 39, bott: 42
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 58 y: 40
+2025/02/01 19:08:13 paddle: x: 144, top: 38, bott: 41
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 59 y: 39
+2025/02/01 19:08:13 paddle: x: 144, top: 37, bott: 40
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 60 y: 38
+2025/02/01 19:08:13 paddle: x: 144, top: 36, bott: 39
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 61 y: 37
+2025/02/01 19:08:13 paddle: x: 144, top: 35, bott: 38
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 62 y: 36
+2025/02/01 19:08:13 paddle: x: 144, top: 34, bott: 37
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 63 y: 35
+2025/02/01 19:08:13 paddle: x: 144, top: 33, bott: 36
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 64 y: 34
+2025/02/01 19:08:13 paddle: x: 144, top: 32, bott: 35
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 65 y: 33
+2025/02/01 19:08:13 paddle: x: 144, top: 31, bott: 34
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 66 y: 32
+2025/02/01 19:08:13 paddle: x: 144, top: 30, bott: 33
+2025/02/01 19:08:13 Set direction from UP_RIGHT to UP_RIGHT at x: 67 y: 31
+2025/02/01 19:08:14 paddle: x: 144, top: 29, bott: 32
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 68 y: 30
+2025/02/01 19:08:14 paddle: x: 144, top: 28, bott: 31
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 69 y: 29
+2025/02/01 19:08:14 paddle: x: 144, top: 27, bott: 30
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 70 y: 28
+2025/02/01 19:08:14 paddle: x: 144, top: 26, bott: 29
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 71 y: 27
+2025/02/01 19:08:14 paddle: x: 144, top: 25, bott: 28
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 72 y: 26
+2025/02/01 19:08:14 paddle: x: 144, top: 24, bott: 27
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 73 y: 25
+2025/02/01 19:08:14 paddle: x: 144, top: 23, bott: 26
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 74 y: 24
+2025/02/01 19:08:14 paddle: x: 144, top: 22, bott: 25
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 75 y: 23
+2025/02/01 19:08:14 paddle: x: 144, top: 21, bott: 24
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 76 y: 22
+2025/02/01 19:08:14 paddle: x: 144, top: 20, bott: 23
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 77 y: 21
+2025/02/01 19:08:14 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 78 y: 20
+2025/02/01 19:08:14 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:08:14 Set direction from UP_RIGHT to UP_RIGHT at x: 79 y: 19
+2025/02/01 19:08:14 Set direction from UP_RIGHT to DOWN_RIGHT at x: 80 y: 20
+2025/02/01 19:08:15 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 81 y: 21
+2025/02/01 19:08:15 paddle: x: 144, top: 19, bott: 22
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 82 y: 22
+2025/02/01 19:08:15 paddle: x: 144, top: 20, bott: 23
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 83 y: 23
+2025/02/01 19:08:15 paddle: x: 144, top: 21, bott: 24
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 84 y: 24
+2025/02/01 19:08:15 paddle: x: 144, top: 22, bott: 25
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 85 y: 25
+2025/02/01 19:08:15 paddle: x: 144, top: 23, bott: 26
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 86 y: 26
+2025/02/01 19:08:15 paddle: x: 144, top: 24, bott: 27
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 87 y: 27
+2025/02/01 19:08:15 paddle: x: 144, top: 25, bott: 28
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 88 y: 28
+2025/02/01 19:08:15 paddle: x: 144, top: 26, bott: 29
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 89 y: 29
+2025/02/01 19:08:15 paddle: x: 144, top: 27, bott: 30
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 90 y: 30
+2025/02/01 19:08:15 paddle: x: 144, top: 28, bott: 31
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 91 y: 31
+2025/02/01 19:08:15 paddle: x: 144, top: 29, bott: 32
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 92 y: 32
+2025/02/01 19:08:15 paddle: x: 144, top: 30, bott: 33
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 93 y: 33
+2025/02/01 19:08:15 paddle: x: 144, top: 31, bott: 34
+2025/02/01 19:08:15 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 94 y: 34
+2025/02/01 19:08:16 paddle: x: 144, top: 32, bott: 35
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 95 y: 35
+2025/02/01 19:08:16 paddle: x: 144, top: 33, bott: 36
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 96 y: 36
+2025/02/01 19:08:16 paddle: x: 144, top: 34, bott: 37
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 97 y: 37
+2025/02/01 19:08:16 paddle: x: 144, top: 35, bott: 38
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 98 y: 38
+2025/02/01 19:08:16 paddle: x: 144, top: 36, bott: 39
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 99 y: 39
+2025/02/01 19:08:16 paddle: x: 144, top: 37, bott: 40
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 100 y: 40
+2025/02/01 19:08:16 paddle: x: 144, top: 38, bott: 41
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 101 y: 41
+2025/02/01 19:08:16 paddle: x: 144, top: 39, bott: 42
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 102 y: 42
+2025/02/01 19:08:16 paddle: x: 144, top: 40, bott: 43
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 103 y: 43
+2025/02/01 19:08:16 paddle: x: 144, top: 41, bott: 44
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 104 y: 44
+2025/02/01 19:08:16 paddle: x: 144, top: 42, bott: 45
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 105 y: 45
+2025/02/01 19:08:16 paddle: x: 144, top: 43, bott: 46
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 106 y: 46
+2025/02/01 19:08:16 paddle: x: 144, top: 44, bott: 47
+2025/02/01 19:08:16 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 107 y: 47
+2025/02/01 19:08:17 paddle: x: 144, top: 45, bott: 48
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 108 y: 48
+2025/02/01 19:08:17 paddle: x: 144, top: 46, bott: 49
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 109 y: 49
+2025/02/01 19:08:17 paddle: x: 144, top: 47, bott: 50
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 110 y: 50
+2025/02/01 19:08:17 paddle: x: 144, top: 48, bott: 51
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 111 y: 51
+2025/02/01 19:08:17 paddle: x: 144, top: 49, bott: 52
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 112 y: 52
+2025/02/01 19:08:17 paddle: x: 144, top: 50, bott: 53
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 113 y: 53
+2025/02/01 19:08:17 paddle: x: 144, top: 51, bott: 54
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 114 y: 54
+2025/02/01 19:08:17 paddle: x: 144, top: 52, bott: 55
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 115 y: 55
+2025/02/01 19:08:17 paddle: x: 144, top: 53, bott: 56
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 116 y: 56
+2025/02/01 19:08:17 paddle: x: 144, top: 54, bott: 57
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to DOWN_RIGHT at x: 117 y: 57
+2025/02/01 19:08:17 Set direction from DOWN_RIGHT to UP_RIGHT at x: 118 y: 56
+2025/02/01 19:08:17 paddle: x: 144, top: 54, bott: 57
+2025/02/01 19:08:17 Set direction from UP_RIGHT to UP_RIGHT at x: 119 y: 55
+2025/02/01 19:08:17 paddle: x: 144, top: 53, bott: 56
+2025/02/01 19:08:17 Set direction from UP_RIGHT to UP_RIGHT at x: 120 y: 54
+2025/02/01 19:08:18 paddle: x: 144, top: 52, bott: 55
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 121 y: 53
+2025/02/01 19:08:18 paddle: x: 144, top: 51, bott: 54
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 122 y: 52
+2025/02/01 19:08:18 paddle: x: 144, top: 50, bott: 53
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 123 y: 51
+2025/02/01 19:08:18 paddle: x: 144, top: 49, bott: 52
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 124 y: 50
+2025/02/01 19:08:18 paddle: x: 144, top: 48, bott: 51
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 125 y: 49
+2025/02/01 19:08:18 paddle: x: 144, top: 47, bott: 50
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 126 y: 48
+2025/02/01 19:08:18 paddle: x: 144, top: 46, bott: 49
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 127 y: 47
+2025/02/01 19:08:18 paddle: x: 144, top: 45, bott: 48
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 128 y: 46
+2025/02/01 19:08:18 paddle: x: 144, top: 44, bott: 47
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 129 y: 45
+2025/02/01 19:08:18 paddle: x: 144, top: 43, bott: 46
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 130 y: 44
+2025/02/01 19:08:18 paddle: x: 144, top: 42, bott: 45
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 131 y: 43
+2025/02/01 19:08:18 paddle: x: 144, top: 41, bott: 44
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 132 y: 42
+2025/02/01 19:08:18 paddle: x: 144, top: 40, bott: 43
+2025/02/01 19:08:18 Set direction from UP_RIGHT to UP_RIGHT at x: 133 y: 41
+2025/02/01 19:08:19 paddle: x: 144, top: 39, bott: 42
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 134 y: 40
+2025/02/01 19:08:19 paddle: x: 144, top: 38, bott: 41
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 135 y: 39
+2025/02/01 19:08:19 paddle: x: 144, top: 37, bott: 40
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 136 y: 38
+2025/02/01 19:08:19 paddle: x: 144, top: 36, bott: 39
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 137 y: 37
+2025/02/01 19:08:19 paddle: x: 144, top: 35, bott: 38
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 138 y: 36
+2025/02/01 19:08:19 paddle: x: 144, top: 34, bott: 37
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 139 y: 35
+2025/02/01 19:08:19 paddle: x: 144, top: 33, bott: 36
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 140 y: 34
+2025/02/01 19:08:19 paddle: x: 144, top: 32, bott: 35
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 141 y: 33
+2025/02/01 19:08:19 paddle: x: 144, top: 31, bott: 34
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 142 y: 32
+2025/02/01 19:08:19 paddle: x: 144, top: 30, bott: 33
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_RIGHT at x: 143 y: 31
+2025/02/01 19:08:19 paddle: x: 144, top: 29, bott: 32
+2025/02/01 19:08:19 Calcing collision
+paddle: {29 32 144}
+ ball: {143 31 5 0}
+2025/02/01 19:08:19 calculating paddle coll. 
+	paddle: {yTop:29 yBot:32 x:144}
+	ball: {x:143 y:31 dir:5 lock:0}
+	side: R
+2025/02/01 19:08:19 Set direction from UP_RIGHT to UP_LEFT at x: 142 y: 30
+2025/02/01 19:08:19 paddle: x: 36, top: 28, bott: 31
+2025/02/01 19:08:19 Set direction from UP_LEFT to UP_LEFT at x: 141 y: 29
+2025/02/01 19:08:19 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:19 Set direction from UP_LEFT to UP_LEFT at x: 140 y: 28
+2025/02/01 19:08:20 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 139 y: 27
+2025/02/01 19:08:20 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 138 y: 26
+2025/02/01 19:08:20 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 137 y: 25
+2025/02/01 19:08:20 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 136 y: 24
+2025/02/01 19:08:20 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 135 y: 23
+2025/02/01 19:08:20 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 134 y: 22
+2025/02/01 19:08:20 paddle: x: 36, top: 26, bott: 29
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 133 y: 21
+2025/02/01 19:08:20 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 132 y: 20
+2025/02/01 19:08:20 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:20 Set direction from UP_LEFT to UP_LEFT at x: 131 y: 19
+2025/02/01 19:08:20 Set direction from UP_LEFT to DOWN_LEFT at x: 130 y: 20
+2025/02/01 19:08:20 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:20 Set direction from DOWN_LEFT to DOWN_LEFT at x: 129 y: 21
+2025/02/01 19:08:20 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:20 Set direction from DOWN_LEFT to DOWN_LEFT at x: 128 y: 22
+2025/02/01 19:08:20 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:20 Set direction from DOWN_LEFT to DOWN_LEFT at x: 127 y: 23
+2025/02/01 19:08:21 paddle: x: 36, top: 27, bott: 30
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 126 y: 24
+2025/02/01 19:08:21 paddle: x: 36, top: 28, bott: 31
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 125 y: 25
+2025/02/01 19:08:21 paddle: x: 36, top: 29, bott: 32
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 124 y: 26
+2025/02/01 19:08:21 paddle: x: 36, top: 30, bott: 33
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 123 y: 27
+2025/02/01 19:08:21 paddle: x: 36, top: 31, bott: 34
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 122 y: 28
+2025/02/01 19:08:21 paddle: x: 36, top: 32, bott: 35
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 121 y: 29
+2025/02/01 19:08:21 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 120 y: 30
+2025/02/01 19:08:21 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 119 y: 31
+2025/02/01 19:08:21 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 118 y: 32
+2025/02/01 19:08:21 paddle: x: 36, top: 34, bott: 37
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 117 y: 33
+2025/02/01 19:08:21 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 116 y: 34
+2025/02/01 19:08:21 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 115 y: 35
+2025/02/01 19:08:21 paddle: x: 36, top: 33, bott: 36
+2025/02/01 19:08:21 Set direction from DOWN_LEFT to DOWN_LEFT at x: 114 y: 36
