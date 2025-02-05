@@ -1,8 +1,10 @@
 package main
 
 import (
+	"bufio"
 	"errors"
 	"log"
+	"net"
 	"os"
 
 	"github.com/gdamore/tcell"
@@ -10,7 +12,7 @@ import (
 
 func main() {
 	logFile := initLogger()
-	defer logFile.Close()
+	conn := connect()
 
 	screen, err := tcell.NewScreen()
 	if err != nil {
@@ -23,6 +25,8 @@ func main() {
 	defer func() {
 		maybePanic := recover()
 		screen.Fini()
+		logFile.Close()
+		conn.Close()
 		if maybePanic != nil {
 			panic(maybePanic)
 		}
@@ -31,7 +35,9 @@ func main() {
 
 	kill := make(chan bool)
 	keyEvents := make(chan tcell.Key)
+	packets := make(chan Packet)
 	go eventListener(keyEvents, kill, screen)
+	socket(conn, keyEvents, packets)
 
 	for {
 		screen.Clear()
@@ -41,9 +47,45 @@ func main() {
 		default:
 			drawBorder(screen)
 			screen.Show()
+		}
+	}
+}
 
+type Packet struct{}
+
+func socket(conn net.Conn, out chan tcell.Key, p chan Packet) {
+	// listen
+	go listen(conn, p)
+
+	// send
+	go send(conn, out)
+}
+
+func listen(conn net.Conn, _ chan Packet) {
+
+	r := bufio.NewReader(conn)
+	for {
+		msg, err := r.ReadString('\n')
+		if err != nil {
+			log.Printf("Connection closed by server: %s", err)
 		}
 
+		log.Printf("Recieved: %s", msg)
+	}
+}
+
+func send(conn net.Conn, out chan tcell.Key) {
+	w := bufio.NewWriter(conn)
+	for {
+
+		select {
+		case msg := <-out:
+			_, err := w.WriteString("up\n")
+			if err != nil {
+				log.Printf("Error writing to server on key event: %v\n", err)
+			}
+			log.Print("writing...", msg)
+		}
 	}
 }
 
@@ -57,6 +99,15 @@ func initLogger() *os.File {
 	return logFile
 }
 
+func connect() net.Conn {
+	conn, err := net.Dial("tcp", ":8000")
+	if err != nil {
+		log.Fatalf("Error connecting to server: %s", err)
+	}
+
+	return conn
+}
+
 func eventListener(ch chan tcell.Key, kill chan bool, screen tcell.Screen) {
 	// main event loop listening to keyboard events
 	for {
@@ -66,10 +117,12 @@ func eventListener(ch chan tcell.Key, kill chan bool, screen tcell.Screen) {
 			screen.Sync()
 		case *tcell.EventKey:
 			if ev.Key() == tcell.KeyEscape || ev.Key() == tcell.KeyCtrlC {
+				log.Print("Got kill cmd")
 				kill <- true
 			}
 
 			if ev.Key() == tcell.KeyUp || ev.Key() == tcell.KeyDown {
+				log.Print("Got arrow key")
 				ch <- ev.Key()
 			}
 		}
